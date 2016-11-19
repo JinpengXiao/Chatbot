@@ -5,4 +5,4 @@ applications:
   buildpack: liberty-for-java
   env:
     CONVERSATION_WORKSPACE_ID: 5a814962-38c7-4631-b6ff-3457edb5494c
-    CAR_SERVICE_HOST: ioicarjinpeng.mybluemix.net
+    CAR_SERVICE_HOST: IOIcarJinpeng.mybluemix.net
